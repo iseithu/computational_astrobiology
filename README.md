@@ -43,6 +43,10 @@ This project focuses on generating synthetic PLATO-like stellar light curves for
 - Light-curve visualization completed
 - Flux variability comparison completed
 - TLS transit detection baseline completed
+- Wotan detrending
+- Random Forest classification
+- XGBoost classification
+- 1D CNN implementation
 
 ---
 
@@ -56,12 +60,4 @@ This project focuses on generating synthetic PLATO-like stellar light curves for
 - Transit Least Squares (TLS)
 - Jupyter Notebook
 
----
 
-# Future Work
-
-- Wotan detrending
-- Random Forest classification
-- XGBoost classification
-- 1D CNN implementation
-- Automated transit classification pipeline
