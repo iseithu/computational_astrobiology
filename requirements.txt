@@ -2,4 +2,15 @@ numpy
 pandas
 matplotlib
 scikit-learn
+xgboost
+tensorflow
+keras
+pyyaml
+wotan
+transitleastsquares
+astropy
 scipy
+jupyter
+notebook
+ipykernel
+tqdm
