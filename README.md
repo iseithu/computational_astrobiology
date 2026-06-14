@@ -1,6 +1,6 @@
 [![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Computational_Astrobiology_2026-blue)](COURSE_PAGE_URL)
 
-# Synthetic PLATO-like Transit Detection Pipeline
+# Recovering planetary transit signals in active PLATO-like stars using simulation and machine learning
 
 This project focuses on generating synthetic PLATO-like stellar light curves for exoplanet transit detection under different stellar activity conditions.
 
