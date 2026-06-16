@@ -1,4 +1,4 @@
-[![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Computational_Astrobiology_2026-blue)](COURSE_PAGE_URL)
+[![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Computational_Astrobiology_2026-blue)](COURSE_PAGE_URL) https://doi.org/10.5281/zenodo.20722949
 
 # Recovering planetary transit signals in active PLATO-like stars using simulation and machine learning
 
