@@ -2,8 +2,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722949.svg)](https://doi.org/10.5281/zenodo.20722949)
 # Recovering planetary transit signals in active PLATO-like stars using simulation and machine learning
 
-# Detecting Exoplanet Transits in Active Stellar Environments Using Machine Learning
-
 The search for exoplanets often relies on identifying tiny, periodic decreases in a star’s brightness caused by a planet crossing the stellar disk. While this task is relatively straightforward for quiet stars, stellar activity such as flares, rotational modulation, and starspots can distort light curves and make planetary transits significantly harder to detect.
 
 This project investigates how stellar activity affects exoplanet transit detectability using a simulated PLATO-like dataset generated with the PLATO Solar-like Light-curve Simulator (PSLS). Four classes of light curves were analyzed:
